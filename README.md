@@ -35,7 +35,7 @@ git config --global user.email 你的EMAIL
 git init
 ```
 
-## 更新至Github
+## 更新至 Github
 ```
 git add .
 git commit -m "這次所執行的變更"
